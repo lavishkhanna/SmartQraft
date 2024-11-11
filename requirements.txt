@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+spacy
+nltk
+sentencepiece
+protobuf
+tiktoken
